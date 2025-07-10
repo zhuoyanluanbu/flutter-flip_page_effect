@@ -5,25 +5,27 @@
 
 
 **( 1 )** 仅实现效果，功能性能未优化
+
 **( 2 )** 可根据需要自行修改和丰富功能
+
 **( 3 )** 单个文件，可直接复制添加到工程；也可clone整个project
 
 
 
-- [x] 左右翻页效果
+✅ 左右翻页效果
 
-- [x] 翻页阴影
+✅ 翻页阴影
 
-- [x] 背面文字印效果
+✅ 背面文字印效果
 
-- [x] 纯flutter实现了左右翻页的效果，不添加其他依赖和文件
+✅ 纯flutter实现了左右翻页的效果，不添加其他依赖和文件
 
   
 
 ON Flutter 3.16.1 • channel stable • Dart 3.2.1 • DevTools 2.28.3
 
 ### 效果演示
-![效果演示](./effect.gif)
+![效果演示](http://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/40f8dd6c2d1e42b9b8418599ada75ef2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgemh1b3lhbmx1YW5idQ==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzY3ODMwNzkxMzU3NDE4NiJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1752731866&x-orig-sign=AcLJ2bB9K%2B9Qi76hKUtTOe5vR4o%3D)
 
 
 
