@@ -25,7 +25,7 @@
 ON Flutter 3.16.1 • channel stable • Dart 3.2.1 • DevTools 2.28.3
 
 ### 效果演示
-![效果演示](http://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/40f8dd6c2d1e42b9b8418599ada75ef2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgemh1b3lhbmx1YW5idQ==:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzY3ODMwNzkxMzU3NDE4NiJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1752731866&x-orig-sign=AcLJ2bB9K%2B9Qi76hKUtTOe5vR4o%3D)
+![效果演示](https://github.com/zhuoyanluanbu/flutter-flip_page_effect/blob/main/effect.gif?raw=false)
 
 
 
