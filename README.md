@@ -25,7 +25,7 @@
 ON Flutter 3.16.1 • channel stable • Dart 3.2.1 • DevTools 2.28.3
 
 ### 效果演示
-![效果演示](https://github.com/zhuoyanluanbu/flutter-flip_page_effect/blob/main/effect.gif?raw=false)
+![effect.gif](https://github.com/zhuoyanluanbu/flutter-flip_page_effect/blob/main/effect.gif)
 
 
 
